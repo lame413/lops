@@ -1,0 +1,4 @@
+# Ignore all folders and stderr
+**/
+stderr
+lib64
